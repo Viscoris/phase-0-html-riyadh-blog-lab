@@ -22,9 +22,12 @@ body {
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
+
+  . sour
 }
 
 h1, h2 {
+  text-align: center;
   font-family: 'Gabriela', serif;
   color: #fff;
 }
@@ -40,6 +43,7 @@ h2 {
 }
 
 h3 {
+  text-align: center;
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
@@ -83,4 +87,4 @@ a:hover {
   .wrapper {
     width: 95%;
   }
-}
+ }
